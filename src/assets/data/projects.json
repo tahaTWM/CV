@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "title":"urTask",
+        "description":"is workspace project such as trello and slack, contains many features that helps employees to communicate with their manager and others employees to make the work faster and easier. ",
+        "url":"https://ahmedazawi.github.io/urTask-project-template/main.html",
+        "img":"urTask.png",
+        "alt":"urTask"
+    },
+    {
+        "id":2,
+        "title":"Todo-list in React",
+        "description":"simple todo-list developed in react js library.",
+        "url":"https://ahmedazawi.github.io/Todo-list-in-React/",
+        "img":"To-do-List-scaled.jpeg",
+        "alt":"todo list"
+    },
+    {
+        "id":3,
+        "title":"Blog Template in React",
+        "description":"Blog template SPA developed in React and Bootstrap 5 ",
+        "url":"https://ahmedazawi.github.io/blog-template-react/",
+        "img":"blog-sample-img-lrg.jpeg",
+        "alt":"Blog"
+    },
+    {
+        "id":4,
+        "title":"Bio Website in React",
+        "description":"My Bio Website developed in React, Contains all the information about me and my skills and projects ",
+        "url":"https://ahmedazawi.github.io/bio-website/",
+        "img":"default-img.jpeg",
+        "alt":"Bio"
+    }
+]

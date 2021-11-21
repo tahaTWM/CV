@@ -1,0 +1,49 @@
+[
+    {
+        "id":1,
+        "title": "Vanilla Javascript",
+        "description": [
+            "DOM",
+            "BOM",
+            "ES6",
+            "Object Oriented Programming"
+        ],
+        "icon":"faJsSquare"
+    },
+    {
+        "id":2,
+        "title": "React Js",
+        "description": [
+            "React-Router",
+            "Lifecycle",
+            "React-Hooks",
+            "Redux"
+        ],
+        "icon":"faReact"
+    },
+    {
+        "id":3,
+        "title": "HTML & CSS",
+        "description": [
+            "HTML5",
+            "CSS3"
+        ],
+        "icon":"faHTML5"
+    },
+    {
+        "id":4,
+        "title": "Bootstrap",
+        "description": [
+            "Bootstrap 5"
+        ],
+        "icon":"faBootstrap"
+    },
+    {
+        "id":4,
+        "title": "Bootstrap",
+        "description": [
+            "Bootstrap 5"
+        ],
+        "icon":"faBootstrap"
+    }
+]
